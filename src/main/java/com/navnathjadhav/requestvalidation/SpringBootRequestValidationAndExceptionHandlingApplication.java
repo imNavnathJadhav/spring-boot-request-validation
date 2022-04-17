@@ -1,0 +1,13 @@
+package com.navnathjadhav.requestvalidation;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringBootRequestValidationAndExceptionHandlingApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SpringBootRequestValidationAndExceptionHandlingApplication.class, args);
+	}
+
+}
